@@ -1,72 +1,74 @@
-# SAAR Dev Team
+<div align="center"><img src="./assets/saar-banner.svg" alt="SAAR Dev Team — Mind & Hand" width="100%">Independent Developers · Shared Vision · Practical Ideas
 
-<p align="center">
-  <strong>Mind & Hand</strong><br>
-  <em>Where ideas become code.</em>
-</p>---
+"Organization" (https://github.com/arashk-and-sadra-dev-team) · "Repositories" (https://github.com/orgs/arashk-and-sadra-dev-team/repositories)
 
-👋 About Us
+</div>---
+
+About SAAR
 
 SAAR Dev Team is a collaborative development team founded by Sadra Hatami and Arashk Alizadeh Shahrivar.
 
-We bring together creativity, technical thinking, and a passion for programming to turn ideas into practical digital projects. Our goal is to learn, build, experiment, and contribute to the developer community through software development and technology.
+We explore ideas, develop software, and learn by building. Our interests include programming, web development, problem-solving, and emerging technologies.
 
-👨‍💻 Meet the Founders
+Meet the Founders
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/sadra-hatami">
-        <strong>Sadra Hatami</strong>
-      </a>
-      <br />
-      <a href="https://github.com/sadra-hatami">
-        <img src="https://github-readme-stats.vercel.app/api?username=sadra-hatami&show_icons=true&hide_border=true&theme=tokyonight" alt="Sadra's GitHub Stats" />
-      </a>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/sadra-hatami">Sadra Hatami</a></h3>
+      <p><strong>Co-Founder</strong></p>
+      <p>Programming · AI · Mathematics</p>
+      <a href="https://github.com/sadra-hatami">View GitHub Profile ↗</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/AASHTheDeveLopEr">
-        <strong>Arashk Alizadeh Shahrivar</strong>
-      </a>
-      <br />
-      <a href="https://github.com/AASHTheDeveLopEr">
-        <img src="https://github-readme-stats.vercel.app/api?username=AASHTheDeveLopEr&show_icons=true&hide_border=true&theme=tokyonight" alt="Arashk's GitHub Stats" />
-      </a>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/AASHTheDeveLopEr">Arashk Alizadeh Shahrivar</a></h3>
+      <p><strong>Co-Founder</strong></p>
+      <p>Programming · Software Development</p>
+      <a href="https://github.com/AASHTheDeveLopEr">View GitHub Profile ↗</a>
     </td>
   </tr>
-</table>💡 Why SAAR?
+</table>Why “SAAR”?
 
-The name SAAR represents the combination of the two founders' names:
+The name SAAR combines a part of each founder’s name:
 
-- SA — from Sadra
-- AR — from Arashk
+"SA" + "AR" = "SAAR"
 
-Together, they form SAAR — a short, distinctive name that represents our partnership and shared vision.
+- SA comes from Sadra.
+- AR comes from Arashk.
 
-🧠 Mind & Hand
+More than a name, SAAR represents two developers building, learning, and creating together.
 
-Our motto, “Mind & Hand,” represents the connection between thinking and doing.
+Our Motto: Mind & Hand
 
-- Mind stands for ideas, creativity, logic, and problem-solving.
-- Hand represents building, coding, experimenting, and turning ideas into reality.
+🧠 Mind
 
-We believe that great ideas become meaningful when knowledge is put into practice.
+Ideas, creativity, logic, curiosity, and problem-solving.
 
-🚀 What We Do
+⚙️ Hand
 
-- 💻 Software and application development
-- 🌐 Web development
-- 🤖 Exploring artificial intelligence and emerging technologies
-- 🧩 Problem-solving and programming experiments
-- 🌍 Building and sharing projects with the developer community
+Coding, experimenting, building, and turning ideas into working projects.
 
-🎯 Our Vision
+We believe ideas become valuable when thought is followed by action.
 
-To grow as developers, create useful and innovative projects, and transform our ideas into real-world solutions — one line of code at a time.
+What We Explore
 
----
+- Software and application development
+- Web development and modern web technologies
+- Artificial intelligence and emerging technologies
+- Programming experiments and problem-solving
+- Useful projects built through learning and collaboration
 
-<p align="center">
-  <strong>SAAR Dev Team</strong><br>
-  <em>Mind & Hand — Where ideas become code.</em>
-</p>
+Explore Our Projects
+
+Discover what we are building in our public repositories.
+
+<div align="center">"Browse All SAAR Repositories →" (https://github.com/orgs/arashk-and-sadra-dev-team/repositories)
+
+</div>---
+
+<div align="center">SAAR Dev Team
+
+Mind & Hand
+Where ideas become code.
+
+</div>
