@@ -1,8 +1,7 @@
-# SAAR Dev Team
-
 <div align="center">
 
-# SAAR
+# SAAR Dev Team
+# 🤝
 
 ### Mind & Hand
 
@@ -10,36 +9,45 @@
 
 **Creativity · Collaboration · Innovation**
 
+<br>
+
+[![Organization](https://img.shields.io/badge/GitHub-SAAR%20Dev%20Team-181717?style=for-the-badge&logo=github)](https://github.com/saar-dev-team)
+[![Founders](https://img.shields.io/badge/Founders-2-1ABC9C?style=for-the-badge)](#-meet-the-founders)
+[![Open Source](https://img.shields.io/badge/Open_Source-Projects-black?style=for-the-badge&logo=github)](https://github.com/orgs/saar-dev-team/repositories)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
+<br>
+
+[🌐 Organization](https://github.com/saar-dev-team)
+•
+[📦 Repositories](https://github.com/orgs/saar-dev-team/repositories)
+
 </div>
 
 ---
 
-## 👋 About Us
+# 👋 About Us
 
-**SAAR Dev Team** is a collaborative development team founded by **Sadra Hatami** and **Arashk Alizadeh Shahrivar**.
+**SAAR Dev Team** is a development team founded by **Sadra Hatami** and **Arashk Alizadeh Shahrivar**.
 
-We bring together creativity, technical thinking, and a passion for programming to turn ideas into practical digital projects.
-
-Our goal is to learn, build, experiment, and contribute to the developer community through software development and technology.
+We turn ideas into working software: small tools, school projects, and experiments we can share. The work sits at the meeting point of an idea and the code that makes it real.
 
 ---
 
-## 👨‍💻 Meet the Founders
+# 👨‍💻 Meet the Founders
 
-<div align="center">
-
+| | |
+|---|---|
 | **Sadra Hatami** | **Arashk Alizadeh Shahrivar** |
-|:---:|:---:|
 | Co-Founder | Co-Founder |
-| [GitHub Profile ↗](https://github.com/sadra-hatami) | [GitHub Profile ↗](https://github.com/AASHTheDeveLopEr) |
-
-</div>
+| [GitHub](https://github.com/sadra-hatami) | [GitHub](https://github.com/AASHTheDeveLopEr) |
 
 ---
 
-## 💡 Why SAAR?
+# 💡 Why SAAR?
 
-The name **SAAR** represents the combination of the two founders' names:
+The name is the two founders, side by side.
 
 <div align="center">
 
@@ -51,38 +59,32 @@ The name **SAAR** represents the combination of the two founders' names:
 
 </div>
 
-Together, they form **SAAR** — a short, distinctive name that represents our partnership and shared vision.
+**SAAR** is the short name of that partnership.
 
 ---
 
-## 🧠 Mind & Hand
+# 🧠 Mind & Hand
 
-Our motto, **“Mind & Hand,”** represents the connection between thinking and doing.
+The motto is the link between thinking and building.
 
-- **Mind** — Ideas, creativity, logic, and problem-solving.
-- **Hand** — Building, coding, experimenting, and turning ideas into reality.
+- **Mind** is the idea, the logic, and the problem.
+- **Hand** is the code, the test, and the finished piece.
 
-> We believe that great ideas become meaningful when knowledge is put into practice.
-
----
-
-## 🚀 What We Do
-
-- 💻 Software and application development
-- 🌐 Web development
-- 🤖 Exploring artificial intelligence and emerging technologies
-- 🧩 Problem-solving and programming experiments
-- 🌍 Building and sharing projects with the developer community
+> A good idea matters when it is built.
 
 ---
 
-## 🎯 Our Vision
+# 🚀 What We Do
 
-To grow as developers, create useful and innovative projects, and transform our ideas into real-world solutions — one line of code at a time.
+- Software and small applications
+- Web projects
+- APIs and school tools
+- Experiments in programming and new technology
+- Open repositories for the developer community
 
 ---
 
-## 🔗 Explore Our Work
+# 📦 Selected Work
 
 <div align="center">
 
@@ -92,9 +94,15 @@ To grow as developers, create useful and innovative projects, and transform our 
 
 ---
 
+# 🎯 Vision
+
+Grow as developers, ship useful projects, and turn the next idea into code.
+
+---
+
 <div align="center">
 
-### **SAAR Dev Team**
+## **SAAR Dev Team**
 
 *Mind & Hand — Where ideas become code.*
 
