@@ -1,6 +1,6 @@
 <div align="center">
 
-# SAAR
+# SAAR Dev Team
 # 🤝
 
 ### Mind & Hand
@@ -86,12 +86,11 @@ The motto is the link between thinking and building.
 
 # 📦 Selected Work
 
-| Repository | Role |
-|---|---|
-| [School Manager](https://github.com/saar-dev-team/School-Manager) | School project |
-| [Homework Manager](https://github.com/saar-dev-team/Homework-Manager) | Homework API for School Manager |
+<div align="center">
 
-[All repositories](https://github.com/orgs/saar-dev-team/repositories)
+### [Explore SAAR Dev Team Repositories →](https://github.com/orgs/saar-dev-team/repositories)
+
+</div>
 
 ---
 
