@@ -12,7 +12,6 @@
 <br>
 
 [![Organization](https://img.shields.io/badge/GitHub-SAAR%20Dev%20Team-181717?style=for-the-badge&logo=github)](https://github.com/saar-dev-team)
-[![Founders](https://img.shields.io/badge/Founders-2-1ABC9C?style=for-the-badge)](#-meet-the-founders)
 [![Open Source](https://img.shields.io/badge/Open_Source-Projects-black?style=for-the-badge&logo=github)](https://github.com/orgs/saar-dev-team/repositories)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
